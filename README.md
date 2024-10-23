@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ilham Malik, welcome to my github profile
 - 👀 I’m interested in Fullstack and Devops Things
-- 🌱 I’m currently learning on NestJs, Go, Python
+- 🌱 I’m currently learning on Flutter, Go, and Python
